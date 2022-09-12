@@ -1,0 +1,15 @@
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\bin\Debug\net6.0\CPrimer_Challenge_2.exe
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\bin\Debug\net6.0\CPrimer_Challenge_2.deps.json
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\bin\Debug\net6.0\CPrimer_Challenge_2.runtimeconfig.json
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\bin\Debug\net6.0\CPrimer_Challenge_2.dll
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\bin\Debug\net6.0\CPrimer_Challenge_2.pdb
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.csproj.AssemblyReference.cache
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.AssemblyInfoInputs.cache
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.AssemblyInfo.cs
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.csproj.CoreCompileInputs.cache
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.dll
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\refint\CPrimer_Challenge_2.dll
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.pdb
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\CPrimer_Challenge_2.genruntimeconfig.cache
+C:\ntv\C#\source\repo\CPrimer_Challenge_2\CPrimer_Challenge_2\obj\Debug\net6.0\ref\CPrimer_Challenge_2.dll
